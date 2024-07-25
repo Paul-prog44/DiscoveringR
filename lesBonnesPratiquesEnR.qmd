@@ -1,0 +1,9 @@
+---
+title: "Bonnes pratiques en R"
+format: html
+editor: visual
+---
+
+#Guide des bonnes pratiques en R
+
+##Le but de ce document est de me familiariser avec les recommandations pour écrire du code en R de qualité, facile à maintenir et respectant les standards de l'indrustie.##
